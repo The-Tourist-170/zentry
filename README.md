@@ -39,19 +39,27 @@ Follow these steps to clone and run the project locally:
 ## Install Dependencies
 
 Run the following command to install all required packages:
-- npm install
+```bash
+npm install
+```
+
 Start the Development Server (Run the command):
-- npm run dev
+```bash
+npm run dev
+```
+
 View the Application (Open your browser and go to):
-- http://localhost:3000
+```bash
+http://localhost:3000
+```
 
 ## 🌟 Features in Progress
-Adding more complex animations with GSAP.
-Refining the design for smaller screen sizes.
-Enhancing accessibility by improving focus states and keyboard navigation.
+- Adding more complex animations with GSAP.
+- Refining the design for smaller screen sizes.
+- Enhancing accessibility by improving focus states and keyboard navigation.
 
 ## 🤝 Contributing
-This project is for learning purposes, but contributions to improve the code are welcome.
+This project is for learning purposes, but contributions to improving the code are welcome.
 
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
