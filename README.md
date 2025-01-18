@@ -1,8 +1,57 @@
-# React + Vite
+# Zentry.com Front Page Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a **React.js** project that replicates the front page of [Zentry.com](https://zentry.com) as a learning exercise. The focus of this project is to explore React.js fundamentals, implement animations using **GSAP**, and build responsive layouts with **Tailwind CSS**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📋 **Project Overview**
+
+- **Objective:**  
+  To clone the front page of Zentry.com to practice modern web development techniques, animations, and responsive design.
+
+- **Key Features:**
+  - Pixel-perfect layout inspired by Zentry.com.
+  - Smooth animations implemented with **GSAP**.
+  - Fully responsive design using **Tailwind CSS**.
+  - No external API calls or routing (single-page structure).
+
+---
+
+## 🛠️ **Technologies Used**
+
+- **Frontend Framework:** React.js  
+- **Styling:** Tailwind CSS  
+- **Animations:** GSAP (GreenSock Animation Platform)  
+
+---
+
+## 🚀 **Getting Started**
+
+Follow these steps to clone and run the project locally:
+
+## **Clone the Repository**
+1. Open your terminal.
+2. Run the following command to clone the repository:
+   ```bash
+   git clone https://github.com/your-username/zentry-clone.git
+   cd zentry-clone
+
+## Install Dependencies
+
+Run the following command to install all required packages:
+- npm install
+Start the Development Server (Run the command):
+- npm run dev
+View the Application (Open your browser and go to):
+- http://localhost:3000
+
+## 🌟 Features in Progress
+Adding more complex animations with GSAP.
+Refining the design for smaller screen sizes.
+Enhancing accessibility by improving focus states and keyboard navigation.
+
+## 🤝 Contributing
+This project is for learning purposes, but contributions to improve the code are welcome.
+
+## 📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
